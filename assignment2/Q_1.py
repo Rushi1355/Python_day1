@@ -9,7 +9,8 @@ def cube(n):
 temp = 0
 for num in numbers:
     temp += cube(num)
-    print(f"cube of {num} = {(temp)}")
+
+
 
 
 
